@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p> 👷‍♀️ I'm currently coding a website @ www.sheldonkorpet.tk
-<p> 🌱 I’m currently learning JS to facilitate that ☝
+<p> 🌱 I’m currently interested in learning JS and Python
 <p> 👌 I've previously coded in Python, SQL, HTML and CSS
 <p> 👩‍🏫 I've previously taught children to code in Scratch
 <p> 👯 I’m looking to collaborate on my own projects ideas
